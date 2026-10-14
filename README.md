@@ -23,7 +23,7 @@ A simple and intuitive digital clock interface designed for everyday use.
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://rihadev.github.io/ChronoClock-/
 
 ## 🚀 Getting Started
 
